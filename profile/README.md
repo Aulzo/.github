@@ -30,7 +30,7 @@ Pour plus d'informations nous concernant, n'hésitez pas à aller faire un tour 
 ## 📕| __Contenu__
 
 -  ### [🦀 Rust](https://github.com/Aulzo/rust)
--  ### [🍂 Kotlin](https://github.com/Aulzo/rust)
+-  ### [🍂 Kotlin](https://github.com/Aulzo/kotlin)
 -  ### [☕ Java](https://github.com/Aulzo/java)
 
 <br>
