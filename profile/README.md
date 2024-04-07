@@ -3,7 +3,7 @@
 </p>
 <br>
 
-Nous vous souhaitons la bienvenue sur notre collection de dépôt comportant les diverses projets et vidéos que nous avons produit.
+Nous vous souhaitons la bienvenue sur notre collection de dépôt comportant les diverse projets et vidéos que nous avons produit.
 
 - ### [Chaîne Youtube: @AulzoDev](https://youtube.com/@AulzoDev)
 - ### [Serveur Discord: https://discord.gg/?](https://discord.gg/?)
